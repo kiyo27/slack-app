@@ -1,0 +1,19 @@
+{
+  "name": "slackapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "snippet": "cd upload-file && node upload-file.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^5.2.0",
+    "dotenv": "^8.1.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
