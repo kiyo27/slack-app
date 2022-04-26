@@ -1,2 +1,4 @@
 node_modules
 upload-file/.env
+.venv
+__pycache__
